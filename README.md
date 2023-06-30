@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Haider</h1>
-<h3 align="center">Hey , I am Ali SDET helping software engineers to develop their quality mindset and deliver bug-free software .I love automating everything</h3>
+<h3 align="center">Hey , I am Ali SDET helping software engineers to develop their quality mindset</h3>
 
 - 🌱 I’m currently learning **RestAssured and Karate**
 
