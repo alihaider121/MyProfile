@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **RestAssured and Karate**
 
-- 📫 How to reach me **ali.haider6713@gmail.com**  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+- 📫 How to reach me **ali.haider6713@gmail.com**  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
  </abc>
 </h2> 
 
