@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **RestAssured and Karate**
 
 - 📫 How to reach me **ali.haider6713@gmail.com**
-- https://gfycat.com/halfforkedcanvasback
+<img source="https://gfycat.com/halfforkedcanvasback"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
